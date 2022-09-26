@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,regular,500,600,700,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;700&display=swap');
+@font-face {
+	font-family: "ProximaNova";
+	src: url("../fonts/proximanova/proximanovaregular.woff2") format("woff2"), url("../fonts/proximanova/proximanovaregular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ProximaNova";
+	src: url("../fonts/proximanova/proximanovaregular.woff2") format("woff2"), url("../fonts/proximanova/proximanovaregular.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ProximaNova";
+	src: url("../fonts/proximanova/proximanovabold.woff2") format("woff2"), url("../fonts/proximanova/proximanovabold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "ProximaNova";
+	src: url("../fonts/proximanova/proximanovablack.woff2") format("woff2"), url("../fonts/proximanova/proximanovablack.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/lato/latoregular.woff2") format("woff2"), url("../fonts/lato/latoregular.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/lato/latobold.woff2") format("woff2"), url("../fonts/lato/latobold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Lato";
+	src: url("../fonts/lato/latoblack.woff2") format("woff2"), url("../fonts/lato/latoblack.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/larsseit.woff2") format("woff2"), url("../fonts/larsseit/larsseit.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/larsseitmedium.woff2") format("woff2"), url("../fonts/larsseit/larsseitmedium.woff2") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/larsseitbold.woff2") format("woff2"), url("../fonts/larsseit/larsseitbold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+main {
+   font-family: "lato";
+   font-weight: 500;
+   font-style: normal;
+   font-size: 20px;
+   letter-spacing: 0.5px;
+   color: black;
+   width: 709px;
+   margin: 0 auto;
+}
+h1 {
+   font-family: "ProximaNova";
+   font-weight: 700;
+   font-style: normal;
+   font-size: 30px;
+   color: green;
+   margin-top: 30px;
+   margin-bottom: 30px;
+}
+.img {
+   width: 709px;
+   margin-top: 20px;
+   margin-bottom: 10px;
+}
+.text-roboto {
+   font-family: "Roboto";
+   font-weight: 400;
+   font-style: normal;
+   font-size: 20px;
+   color: blue;
+}
+.text {
+   font-family: "Larsseit";
+   font-weight: 400;
+   font-style: normal;
+   font-size: 20px;
+   color: black;
+}
+h2 {
+   font-family: "Oswald";
+   font-weight: 500;
+   font-style: normal;
+   font-size: 20px;
+   color: red;
+   margin-top: 20px;
+}
+.text.text-roboto{
+	font-family: "Oswald";
+   font-weight: 400;
+   font-style: normal;
+   font-size: 25px;
+	color: crimson;
+}
+.second{
+	color: darkviolet;
+}
+.text .pres-text{
+	font-family: "Roboto";
+   font-weight: 500;
+   font-style: normal;
+   font-size: 15px;
+	color: darkblue;
+}
